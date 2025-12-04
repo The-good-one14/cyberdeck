@@ -13,6 +13,7 @@
 - **[USB hub]**
 - **[Ethernet extension cable]**
 - **[RTL-SDR]**
+- **[Antenna cable extension]**
 - **[Video ribbon cable]**
 
 [Raspberry Pi 5 4GB]: https://www.raspberrystore.nl/PrestaShop/nl/raspberry-pi-5/507-raspberry-pi-5-4gb-5056561803319.html
@@ -27,3 +28,4 @@
 [RTL-SDR]: https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0CD745394?crid=2HXXLGPTU56KS&dib=eyJ2IjoiMSJ9.i8OJW7n_XWrCPSf5KFauV9uqw6cEJJsf33GgnxswaSxvZJHRc1mlssl2Enh_qJa4WX5w4jGBWcKCvhiCUr9jyWsz8RIkm5FPk9KlwhkTKBjeYtri_Shn_uiDWe10E9mbzxyIy98AIiWzX0DJNQ_ywHBUN17PWhgBpazIv712PrnjeKL77Lf97UMfgFdQTj6kywXTjB7hSpLB9fA7ywfZygPCkv7kxeP79rSDo-go-AU.91EHvvoSirkdZ-9OWBwu9tNoWUp3_oKyJRHDFvygVVU&dib_tag=se&keywords=rtl-sdr+blog+v4&qid=1764872192&sprefix=RTL-SDR%2Caps%2C148&sr=8-1
 [Sandisk Extreme 128GB]: https://www.amazon.nl/-/en/SanDisk-Extreme-MicroSDXC-RescuePRO-Warranty/dp/B09X7BK27V?sr=8-4
 [Video ribbon cable]: https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/ffc/waveshare-raspberry-pi-5-camera-cable-22-to-15-pin-fpc-ffc-flex-30cm
+[Antenna cable extension]: https://www.amazon.nl/-/en/Bulkhead-Antenna-Extension-Cellular-Receiver/dp/B086J9GZV7?sr=8-1
