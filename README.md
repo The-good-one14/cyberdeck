@@ -1,7 +1,10 @@
 # cyberdeck
+#### The parts list is not *fully* complete, but all the major components are listed. The only parts I did not get links for yet are minor (e.g. cables) + the power button and an acrylic plate (around 25cm x 20cm)
+
 ### Parts list:
 - **[Raspberry Pi 5 4GB]**
 - **[Raspberry PI active cooler]**
+- **[Sandisk Extreme 128GB]**
 - **[Pelican 1200 Case]**
 - **[7" Screen]**
 - **[UPS]**
@@ -10,6 +13,7 @@
 - **[USB hub]**
 - **[Ethernet extension cable]**
 - **[RTL-SDR]**
+- **[Video ribbon cable]**
 
 [Raspberry Pi 5 4GB]: https://www.raspberrystore.nl/PrestaShop/nl/raspberry-pi-5/507-raspberry-pi-5-4gb-5056561803319.html
 [Raspberry Pi active cooler]: https://www.raspberrystore.nl/PrestaShop/nl/raspberry-pi-5/510-active-cooler-voor-de-raspberry-pi-5-5056561803357.html?src=raspberrypi
@@ -21,3 +25,5 @@
 [USB hub]: https://www.amazon.com/Adapter-Splitter-MacBook-Surface-Devices/dp/B0BXCX4J7T?crid=3QG837YS39ANE&dib=eyJ2IjoiMSJ9.SloULd8NUA-McP1jW1kdEDVncx8aYR4cYiNJMzXDE9fQfXzzYJdjoeBFKkcJcC2qo-rEdC2lWZBSQkJgBFQ6O-4A1rxhyJ43u-SHsbXXBw7NMAoV0LePESjWLVIKioM6AQEnUdsaipSVCxj_2m7ujR7f5fsCFclNVQnLN_oW6aWQvLLk0DCSX36WXh6yE97B7cBAslJapOJccXjing0fWlM_u-cXUIEShfIb_6JDgHZAu8bEyynVd8qOuh2sJ0JjirLwKddSp4FH0-CnbaBY5m-VOCkyh9qvkECRm7wz6U4._kDxImb0yqauzbGvnjx1r_VCMYSoUVHsJrJmaweNUgA&dib_tag=se&keywords=usbc+hub&qid=1761806106&s=electronics&sprefix=usbc+h,electronics,194&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=sl1&tag=justohl-20&linkId=8f311944639ebdee3386296722a42877&language=en_US
 [Ethernet extension cable]: https://www.conrad.nl/nl/p/delock-86998-rj45-netwerkkabel-patchkabel-cat-6a-s-ftp-0-25-m-zwart-1-stuk-s-3379255.html
 [RTL-SDR]: https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0CD745394?crid=2HXXLGPTU56KS&dib=eyJ2IjoiMSJ9.i8OJW7n_XWrCPSf5KFauV9uqw6cEJJsf33GgnxswaSxvZJHRc1mlssl2Enh_qJa4WX5w4jGBWcKCvhiCUr9jyWsz8RIkm5FPk9KlwhkTKBjeYtri_Shn_uiDWe10E9mbzxyIy98AIiWzX0DJNQ_ywHBUN17PWhgBpazIv712PrnjeKL77Lf97UMfgFdQTj6kywXTjB7hSpLB9fA7ywfZygPCkv7kxeP79rSDo-go-AU.91EHvvoSirkdZ-9OWBwu9tNoWUp3_oKyJRHDFvygVVU&dib_tag=se&keywords=rtl-sdr+blog+v4&qid=1764872192&sprefix=RTL-SDR%2Caps%2C148&sr=8-1
+[Sandisk Extreme 128GB]: https://www.amazon.nl/-/en/SanDisk-Extreme-MicroSDXC-RescuePRO-Warranty/dp/B09X7BK27V?sr=8-4
+[Video ribbon cable]: https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/ffc/waveshare-raspberry-pi-5-camera-cable-22-to-15-pin-fpc-ffc-flex-30cm
