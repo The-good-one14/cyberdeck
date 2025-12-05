@@ -1,6 +1,7 @@
 # cyberdeck
-#### The parts list is not *fully* complete, but all the major components are listed. The only parts I did not get links for yet are minor (e.g. cables) + the power button and an acrylic plate (around 25cm x 20cm)
-
+#### I believe this is everything that I need. I may have missed some cables, but that will hopefully not stop me (I have spares)
+[This is the original inspiration for this project btw](https://www.instagram.com/p/DMgGBRRS-yN/)
+The acrylic plate maybe has to change since it is way to large (yes I can cut it), and a bit thin
 ### Parts list:
 - **[Raspberry Pi 5 4GB]**
 - **[Raspberry PI active cooler]**
@@ -15,10 +16,12 @@
 - **[RTL-SDR]**
 - **[Antenna cable extension]**
 - **[Video ribbon cable]**
+- **[Acrylic plate 50x100cm (only 25x20cm needed)]**
+- **[Power button]**
 
 [Raspberry Pi 5 4GB]: https://www.raspberrystore.nl/PrestaShop/nl/raspberry-pi-5/507-raspberry-pi-5-4gb-5056561803319.html
 [Raspberry Pi active cooler]: https://www.raspberrystore.nl/PrestaShop/nl/raspberry-pi-5/510-active-cooler-voor-de-raspberry-pi-5-5056561803357.html?src=raspberrypi
-[Pelican 1200 Case]: https://www.amazon.com/dp/B0051QYF5E?_encoding=UTF8&th=1
+[Pelican 1200 Case]: https://www.rlsales.nl/koffers/koffers/peli-case-1200-geel
 [7" Screen]: https://www.amazon.com/Hosyond-Touchscreen-Compatible-Capacitive-Driver-Free/dp/B0D3QB7X4Z?_encoding=UTF8&pf_rd_r=RCKEZ9SMZ3B5Z6P9J9F2&pf_rd_p=4e1b46a8-daf9-4433-b97e-d6df97cf3699&pd_rd_i=B0D3QB7X4Z&pd_rd_w=5K0tV&pd_rd_wg=ctsAG&pd_rd_r=c074014f-bffb-44e6-8d41-197e77fd86e6&content-id=amzn1.sym.4e1b46a8-daf9-4433-b97e-d6df97cf3699&th=1
 [UPS]: https://www.waveshare.com/ups-hat-e.htm
 [Li-ion batteries 4x]: https://www.nkon.nl/eve-inr21700-50e-5000mah-15a.html
@@ -29,3 +32,5 @@
 [Sandisk Extreme 128GB]: https://www.amazon.nl/-/en/SanDisk-Extreme-MicroSDXC-RescuePRO-Warranty/dp/B09X7BK27V?sr=8-4
 [Video ribbon cable]: https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/ffc/waveshare-raspberry-pi-5-camera-cable-22-to-15-pin-fpc-ffc-flex-30cm
 [Antenna cable extension]: https://www.amazon.nl/-/en/Bulkhead-Antenna-Extension-Cellular-Receiver/dp/B086J9GZV7?sr=8-1
+[Acrylic plate 50x100cm (only 25x20cm needed)]: https://www.gamma.nl/assortiment/martens-acrylplaat-transparant-50-x-100-cm-2-mm/p/B151770
+[Power button]: https://www.tinytronics.nl/en/switches/manual-switches/push-buttons-and-switches/metal-push-button-16mm-on-off-with-3v-white-led-lighting
