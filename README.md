@@ -1,7 +1,7 @@
 # cyberdeck
-#### I believe this is everything that I need. I may have missed some cables, but that will hopefully not stop me (I have spares)
+
 [This is the original inspiration for this project btw](https://www.instagram.com/p/DMgGBRRS-yN/)
-The acrylic plate maybe has to change since it is way to large (yes I can cut it), and a bit thin
+
 ### Parts list:
 - **[Raspberry Pi 5 4GB]**
 - **[Raspberry PI active cooler]**
